@@ -1,0 +1,12 @@
+.movieInfo{
+    padding: 10px;
+    display: flex;
+    gap: 50px;
+}
+
+@media (max-width: 1023px)  {
+  img {
+    width: 200px;
+  }
+}
+ 
